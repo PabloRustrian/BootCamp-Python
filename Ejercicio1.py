@@ -1,2 +1,2 @@
 var = "Hola mundo"
-print(var)
+print("a "+var)
